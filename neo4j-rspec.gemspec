@@ -18,4 +18,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "neo4j", ">= 6.0.0"
   spec.add_dependency "rspec", ">= 3.0"
+  spec.add_dependency "rspec-expectations", ">= 3.0"
 end
